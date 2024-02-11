@@ -1,1 +1,1 @@
-Studying Inflearn_JavaStart code
+Inflearn_JavaStart Study
